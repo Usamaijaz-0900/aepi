@@ -1,1 +1,1 @@
-<?php echo 'usama ijaz socket_create_pair(domain, type, protocol, fd)' sssop?>
+<?php echo 'usama ijaz socket_create_pair(domain, type, protocol, fd)' ssssssssop?>
